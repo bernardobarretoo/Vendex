@@ -1,2 +1,3 @@
 # Vendex
-
+Vendex é uma plataforma de e-commerce desenvolvida como projeto da disciplina de Programação B (UFS), com o objetivo de aplicar conceitos de desenvolvimento front-end para desktop (web) e mobile nativo. O projeto simula um marketplace onde usuários podem navegar por produtos, adicionar itens ao carrinho e simular o processo de compra, inspirado em plataformas como Mercado Livre.
+Funcionalidades: listagem de produtos com imagem, nome e preço, busca e filtros por categoria, página de detalhes do produto, carrinho de compras (adicionar/remover), layout responsivo para diferentes resoluções
